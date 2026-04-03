@@ -2,33 +2,33 @@
   const steps = [
     {
       id: "01",
-      title: "Initial Contact and Needs Assessment",
-      description: "We start with a conversation to understand your vision, requirements, and the unique characteristics of your space."
+      title: "Sign Up and Create Your Profile",
+      description: "Get started in minutes by creating your Delphi account and telling us about your expertise, audience, and goals."
     },
     {
       id: "02",
-      title: "Detailed Consultation and Site Analysis",
-      description: "A thorough on-site analysis to gather data, measure the area, and assess environmental conditions."
+      title: "Upload Your Content and Knowledge",
+      description: "Feed your Digital Mind with your existing content — videos, podcasts, writings, courses, and more across 40+ supported formats."
     },
     {
       id: "03",
-      title: "Concept Creation and Design Proposal",
-      description: "Developing initial sketches and mood boards to visualize the potential of your future garden."
+      title: "Train Your Digital Mind",
+      description: "Delphi learns your unique voice, frameworks, and insights, building an interactive AI that thinks and responds like you."
     },
     {
       id: "04",
-      title: "Plant and Material Selection",
-      description: "Choosing the right plants and materials that fit the design, climate, and maintenance preferences."
+      title: "Customize Your Experience",
+      description: "Set your brand colors, custom domain, and interaction preferences so your Digital Mind feels authentically yours."
     },
     {
       id: "05",
-      title: "Visualizations and Final Adjustments",
-      description: "Creating detailed 3D visualizations to give you a realistic preview and making any necessary refinements."
+      title: "Deploy Across Your Channels",
+      description: "Launch your Digital Mind on your website, WhatsApp, SMS, Slack, or via voice — wherever your audience already lives."
     },
     {
       id: "06",
-      title: "Documentation Handover",
-      description: "Providing all necessary technical drawings and planting plans for the implementation team."
+      title: "Grow, Refine, and Scale",
+      description: "Use built-in analytics to sharpen responses over time, sync contacts, and monetize your expertise at unlimited scale."
     }
   ];
 </script>
@@ -37,21 +37,21 @@
   <div class="max-w-7xl mx-auto">
     <!-- Top Label -->
     <div class="flex justify-between items-center mb-12 border-b border-gray-200 pb-4">
-      <span class="text-xs uppercase tracking-widest font-medium text-gray-500">Simple and Clear Work Process</span>
-      <span class="text-xs uppercase tracking-widest font-medium text-gray-500">(2023)</span>
+      <span class="text-xs uppercase tracking-widest font-medium text-gray-500">Simple and Clear Onboarding Process</span>
+      <span class="text-xs uppercase tracking-widest font-medium text-gray-500">(2025)</span>
     </div>
 
     <!-- Main Headline -->
     <h2 class="text-4xl md:text-5xl font-light leading-tight mb-24 max-w-4xl">
-      Garden design is an <span class="font-serif italic">exciting journey</span> — and the process 
-      from the first contact to the final project is structured to be smooth, transparent, and inspiring.
+      Building your Digital Mind is an <span class="font-serif italic">empowering journey</span> — and the process 
+      from your first upload to a fully deployed clone is structured to be smooth, transparent, and inspiring.
     </h2>
 
     <div class="grid grid-cols-1 lg:grid-cols-12 gap-16">
       <!-- Sticky Image -->
       <div class="lg:col-span-5 relative hidden lg:block">
         <div class="sticky top-12 h-[600px] w-full bg-gray-100 overflow-hidden">
-           <img src="https://images.unsplash.com/photo-1584464591361-9e7530660a54?q=80&w=1000&auto=format&fit=crop" alt="Garden process" class="w-full h-full object-cover" />
+           <img src="/generated/image-a-team-of-engineers-and-creators-collabo-1775231455198-4.webp" alt="Collaborative team building Delphi Digital Mind" class="w-full h-full object-cover" />
         </div>
       </div>
 

@@ -2,20 +2,20 @@
   const projects = [
     {
       id: "01",
-      title: "Private Residential Gardens",
-      description: "Green spaces designed for individual homes, offering privacy, beauty, and a personal connection with nature.",
-      image: "https://images.unsplash.com/photo-1592595896551-12b371d546d5?q=80&w=1000&auto=format&fit=crop"
+      title: "Coaches & Consultants",
+      description: "Turn your expertise into a Digital Mind that answers client questions, delivers your frameworks, and scales your impact — 24/7, without cloning your calendar.",
+      image: "/generated/image-a-confident-executive-coach-in-a-modern--1775231444316-0.webp"
     },
     {
       id: "02",
-      title: "Commercial Green Spaces",
-      description: "Functional and aesthetic landscapes for businesses, enhancing the environment for employees and clients.",
+      title: "Creators & Thought Leaders",
+      description: "Let your audience go deeper than a podcast or newsletter ever could. Your Digital Mind engages fans personally, in your voice, across every channel.",
       image: "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1000&auto=format&fit=crop"
     },
     {
       id: "03",
-      title: "Public Parks & Recreation",
-      description: "Community-focused designs that encourage social interaction and provide accessible green areas for everyone.",
+      title: "Enterprises & Public Figures",
+      description: "From celebrity knowledge vaults to corporate training, Delphi's Immortal tier delivers white-glove setup and unlimited scale for the world's most influential minds.",
       image: "https://images.unsplash.com/photo-1562664348-2182b3712081?q=80&w=1000&auto=format&fit=crop"
     }
   ];
@@ -25,14 +25,14 @@
   <div class="max-w-7xl mx-auto">
     <!-- Top Label -->
     <div class="mb-12 border-b border-white/10 pb-4">
-      <span class="text-xs uppercase tracking-widest font-medium opacity-60">Range of Garden Types and Green Spaces</span>
+      <span class="text-xs uppercase tracking-widest font-medium opacity-60">Built for Every Expert, Creator, and Leader</span>
     </div>
 
     <!-- Header & Nav -->
     <div class="flex flex-col md:flex-row justify-between items-end mb-20 gap-8">
       <h2 class="text-4xl md:text-5xl font-light leading-tight max-w-3xl">
-        Support a <span class="font-serif italic text-lime-green">wide range of garden types and green spaces</span>,
-        tailored to every need, style, and setting — from private retreats to public landscapes.
+        Serve a <span class="font-serif italic text-lime-green">wide range of experts, coaches, and creators</span>,
+        tailored to every audience, platform, and scale — from solo consultants to global public figures.
       </h2>
       
       <div class="flex gap-4">

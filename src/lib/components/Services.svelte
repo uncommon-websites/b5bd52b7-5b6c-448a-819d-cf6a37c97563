@@ -1,33 +1,33 @@
 <script lang="ts">
   const services = [
     {
-      title: "Design Consultation",
-      description: "They help quickly validate existing ideas for developing green spaces or create new concepts from scratch.",
-      image: "https://images.unsplash.com/photo-1600607686527-6fb886090705?q=80&w=1000&auto=format&fit=crop"
+      title: "Clone Setup & Onboarding",
+      description: "We help you quickly launch your Digital Mind by ingesting your existing content — videos, podcasts, writing, and more — and configuring your clone to match your voice.",
+      image: "/generated/image-a-friendly-onboarding-specialist-guiding-1775231457780-5.webp"
     },
     {
-      title: "Concept for Green Area",
-      description: "A functional layout reflecting the style (plantings, hard paths, stones, etc.) tailored to the client's needs.",
-      image: "https://images.unsplash.com/photo-1557429287-b2e26467fc2b?q=80&w=1000&auto=format&fit=crop"
+      title: "Content Training & Fine-Tuning",
+      description: "A fully personalized AI trained on your unique knowledge base, communication style, and audience needs — refined until it sounds unmistakably like you.",
+      image: "/generated/image-an-expert-speaking-into-a-microphone-sur-1775231460216-6.webp"
     },
     {
-      title: "Plant Composition",
-      description: "Arrangement of planting beds, lawns, hedges, planters, etc., as well as selection of specific plant species.",
+      title: "Multi-Channel Deployment",
+      description: "Deploy your Digital Mind across chat, voice, SMS, WhatsApp, Slack, website embeds, and custom apps — reaching your audience wherever they already are.",
       image: "https://images.unsplash.com/photo-1613977257363-707ba9348227?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      title: "Concept Plan for Green",
-      description: "Serves as the primary documentation for implementation. Its exact scope is determined individually.",
+      title: "Audience Monetization",
+      description: "Built-in monetization tools let you gate access, set interaction limits, and convert audience engagement into recurring revenue — all within the Delphi platform.",
       image: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      title: "Supervision Over an Implementation",
-      description: "Recommending specialists for sourcing local stones and bonsai plants, supervising on-site implementation for design compliance, and maintaining ongoing communication with the investor and contractors.",
+      title: "Enterprise & Celebrity Clones",
+      description: "White-glove onboarding, dedicated account management, unlimited training data, and custom branding for high-profile figures, enterprises, and institutions ready to scale at the highest level.",
       image: "https://images.unsplash.com/photo-1591825729269-caeb344f6df2?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      title: "Gardening Workshops",
-      description: "Conducting workshops in the form of planting events, joint gardening activities, or nature walks for organized groups or open neighborhood events.",
+      title: "Analytics & Continuous Learning",
+      description: "Track every interaction through a built-in analytics dashboard, refine your Digital Mind's responses over time, and automatically sync new content as you publish it.",
       image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?q=80&w=1000&auto=format&fit=crop"
     }
   ];
@@ -37,14 +37,14 @@
   <div class="max-w-7xl mx-auto">
     <!-- Top Label -->
     <div class="mb-12 border-b border-gray-200 pb-4">
-      <span class="text-xs uppercase tracking-widest font-medium text-gray-500">Tailored Offer to Meet Your Needs</span>
+      <span class="text-xs uppercase tracking-widest font-medium text-gray-500">Everything You Need to Scale Your Expertise</span>
     </div>
 
     <!-- Main Headline -->
     <h2 class="text-4xl md:text-5xl lg:text-5xl font-light leading-tight mb-24 max-w-4xl">
-      From concept to completion, I offer a full range of landscape design services to 
-      <span class="font-serif italic">transform outdoor spaces into beautiful</span>, 
-      and functional environments.
+      From first upload to full deployment, Delphi offers everything experts need to 
+      <span class="font-serif italic">turn their knowledge into an always-on</span>, 
+      personalized digital presence.
     </h2>
 
     <!-- Services List -->
